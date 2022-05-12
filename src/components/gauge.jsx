@@ -21,7 +21,7 @@ return(
       id="gauge-chart"
       textColor="#333"
       nrOfLevels={3}
-      arcsLength={[0.048828125, 0.1455078125, 0.8037109375]}
+      arcsLength={[0.0498946875, 0.146484375, 0.8046875]}
       colors={["#5BE12C", "#F5CD19", "#EA4228"]}
       percent={float}
       arcPadding={0.000005}
